@@ -4,7 +4,7 @@
 using namespace std;
 
 class MAU {
-private:
+protected:
     int r, g, b; // [0,255]
     static int dem;
 public:
