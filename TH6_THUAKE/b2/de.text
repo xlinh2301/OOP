@@ -1,0 +1,6 @@
+2. Xây dựng class Điểm 3 chiều có màu (DIEMMAU3C) kế thừa từ class Điểm 3 chiều (DIEM3C),
+bổ sung 3 thuộc tính màu RGB - Red Green Blue (3 số nguyên từ 0 đến 255) và các phương thức: 
+
+-thiết lập, hủy, set và get giá trị màu.
+
+-kiểm tra trùng màu, nhập, xuất, overload toán tử >>, overload toán tử <<.

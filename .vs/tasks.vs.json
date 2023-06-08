@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-b1",
+      "appliesTo": "TH6_THUAKE/b1/",
+      "type": "launch"
+    }
+  ]
+}

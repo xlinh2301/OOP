@@ -1,0 +1,10 @@
+﻿  XuLyClassPhanSo.cpp
+D:\OOP\Da_nang_hoa_toantu\Phanso\ClassPhanSo.h(31,19): error C2809: 'operator ++' has no formal parameters
+D:\OOP\Da_nang_hoa_toantu\Phanso\XuLyClassPhanSo.cpp(101,8): error C2809: 'operator ++' has no formal parameters
+D:\OOP\Da_nang_hoa_toantu\Phanso\XuLyClassPhanSo.cpp(103,2): error C2065: 'ts': undeclared identifier
+D:\OOP\Da_nang_hoa_toantu\Phanso\XuLyClassPhanSo.cpp(103,8): error C2065: 'ms': undeclared identifier
+D:\OOP\Da_nang_hoa_toantu\Phanso\XuLyClassPhanSo.cpp(104,10): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+  main.cpp
+D:\OOP\Da_nang_hoa_toantu\Phanso\ClassPhanSo.h(31,19): error C2809: 'operator ++' has no formal parameters
+D:\OOP\Da_nang_hoa_toantu\Phanso\main.cpp(7,18): error C2675: unary '++': 'PHANSO' does not define this operator or a conversion to a type acceptable to the predefined operator
+  Generating Code...

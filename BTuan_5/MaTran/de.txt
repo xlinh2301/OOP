@@ -1,0 +1,23 @@
+Thuộc tính:
+Số dòng và số cột (int sd, sc)
+Con trỏ tới vùng nhớ động 
+chứa các phần tử ma trận 
+(int **p)
+Phương thức:
+Thiết lập không tham số
+Thiết lập truyền 2 tham số d, c
+Thiết lập sao chép
+Hủy
+Nhập giá trị các phần tử ma trận
+Xuất giá trị các phần tử ma trận
+Liệt kê giá trị các phần tử là 
+số nguyên tố của ma trận.
+Đếm số lượng các phần tử là số 
+chính phương của ma trận.
+Tính tổng giá trị các phần tử là 
+số hoàn thiện trên dòng k của 
+ma trận.
+Tính TB cộng giá trị các phần tử 
+là số đối xứng trên cột k của ma trận.
+Sắp xếp tăng dần các phần tử 
+trên dòng k của ma trận.

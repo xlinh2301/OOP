@@ -1,0 +1,4 @@
+﻿  HCN.cpp
+D:\OOP\LT\Bienstatic_phuongthuchang_thamchieuhang\XULYHCN\HCN\HCN.cpp(16,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OOP\LT\Bienstatic_phuongthuchang_thamchieuhang\XULYHCN\HCN\HCN.cpp(16,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HCN.vcxproj -> D:\OOP\LT\Bienstatic_phuongthuchang_thamchieuhang\XULYHCN\HCN\x64\Debug\HCN.exe

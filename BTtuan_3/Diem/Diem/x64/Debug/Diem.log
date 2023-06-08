@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\OOP\BTtuan_3\Diem\Diem\main.cpp(2,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  XuLyDiem.cpp
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(10,7): error C2600: 'DIEM::DIEM': cannot define a compiler-generated special member function (must be declared in the class first)
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(31,11): error C2039: 'GetDem': is not a member of 'DIEM'
+D:\OOP\BTtuan_3\Diem\Diem\Diem.h(7,7): message : see declaration of 'DIEM'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(33,18): error C2248: 'DIEM::dem': cannot access private member declared in class 'DIEM'
+D:\OOP\BTtuan_3\Diem\Diem\Diem.h(10,13): message : see declaration of 'DIEM::dem'
+D:\OOP\BTtuan_3\Diem\Diem\Diem.h(7,7): message : see declaration of 'DIEM'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(58,49): error C2264: 'DIEM::DIEM': error in function definition or declaration; function not called
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(79,14): error C2084: function 'double DIEM::TinhChuViTamGiac(const DIEM &,const DIEM &) const' already has a body
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(71,14): message : see previous definition of 'TinhChuViTamGiac'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(99,4): error C2146: syntax error: missing ';' before identifier 'chuoikq'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(99,1): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(99,12): error C2059: syntax error: '='
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(102,2): error C2181: illegal else without matching if
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(103,3): error C2146: syntax error: missing ';' before identifier 'chuoikq'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(103,1): error C2429: language feature 'init-statements in if/switch' requires compiler flag '/std:c++17'
+D:\OOP\BTtuan_3\Diem\Diem\XuLyDiem.cpp(103,11): error C2059: syntax error: '='
+  Generating Code...

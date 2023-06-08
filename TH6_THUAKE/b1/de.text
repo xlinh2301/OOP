@@ -1,0 +1,6 @@
+1. Xây dựng class Điểm 3 chiều (DIEM3C) kế thừa từ class Điểm 2 chiều (DIEM),bổ sung thuộc tính cao độ z và các phương thức: 
+-thiết lập, hủy, set và get giá trị cao độ z.
+-kiểm tra trùng điểm, di chuyển điểm, tính khoảng cách giữa 2 điểm, tìm điểm đối xứng, 
+-nhập, xuất.
+-tính chu vi tam giác qua 3 điểm, tính diện tích tam giác qua 3 điểm. 
+-overload toán tử >>, overload toán tử <<.
